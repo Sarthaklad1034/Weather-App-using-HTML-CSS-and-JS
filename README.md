@@ -1,12 +1,10 @@
-# Weather_App_using_HTML_CSS_and_JS
+# Weather App using HTML CSS and JS
 
 This project features a simple weather app website built with HTML, CSS, and JavaScript, designed to display the current weather conditions. It serves as a basic example for learning web development and integrating weather APIs.
 
---
+![Website preview 1](/images/preview1.jpg)
 
-![Website preview 1](/images/preview1.jpg) ![Website preview 2](images/preview2.jpg)
-
---
+## Description
 
 A basic weather application made using HTML, CSS, and JavaScript. 
 * Responsive website
@@ -14,8 +12,6 @@ A basic weather application made using HTML, CSS, and JavaScript.
 * "On-the-fly" DOM changes
 * International units toggle
 * API usage
-  
---
 
 ## Getting Started
 
@@ -50,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Sarthak Lad](https://linkedin.com/in/sarthak-lad)
+- Linkedin : [sarthak-lad](https://linkedin.com/in/sarthak-lad)
 - Email: [sarthaklad1034@gmail.com](mailto:sarthaklad1034@gmail.com)
 
 ---
